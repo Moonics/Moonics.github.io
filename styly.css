@@ -1,0 +1,52 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+/*h1 { color: red; }*/
+img.uvodni {width: 300px;
+float: right;}
+
+ul li {
+
+	display: inline;
+    font-weight: bold;
+    font-size: 20px;
+    font-color: rgb(230,230,250);
+    opacity: 0.9;
+
+}
+
+nav a {
+	background-color: rgb(106,90,205);
+    padding: 20px;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	color: white;
+	opacity: 0.4;
+	text-decoration: none;
+}
+
+nav ul li a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+header {
+	margin: 40px;
+	margin-top:50px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+aside {
+	float: left;
+	width: 200px;
+}
+
+blockquote {text-align: justify;
+float: left;}
+footer {font-size: 10px}
